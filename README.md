@@ -1,6 +1,6 @@
 # CoSchedule_Clone
 
-[Deployed Link](https://coschedule-clone-new.vercel.app/)
+[Deployed Link](https://coschedule-clone-fullstack.vercel.app/)
 
 If you want to see our full project then you have to register for a account because our website routes are protected and it needs authentication, you can create your dummy account and after creating an account please login via same email and correct password.
 
