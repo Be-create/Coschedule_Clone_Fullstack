@@ -28,7 +28,7 @@ With solutions for marketers at every level from solopreneurs to enterprise leve
 
 ### First you need to clone or download this project from here.
 
-https://github.com/SaurabhSinghRbz/coSchedule_Clone.git
+https://github.com/Be-create/Coschedule_Clone_Fullstack.git
 
 ### After cloning the project you need to install its dependencies, for this run this command.
 Do this in both folders (client and Server)
