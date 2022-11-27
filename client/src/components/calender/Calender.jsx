@@ -13,7 +13,7 @@ const Calender = () => {
   useEffect(() => {
     try {
       dispatch(resetState());
-      fetch(`https://coschedule-api.herokuapp.com/api/tasks/?email=${email}`)
+      fetch(`https://coscheduleserver.onrender.com/api/tasks/?email=${email}`)
         .then((res) => res.json())
         .then((res) => {
           res.map((element) => {
